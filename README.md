@@ -32,50 +32,54 @@ Its primarlily plated using a char with alloys across the front face of the ship
 
 Basic script for current Fuel/Prop times.
 
-Uses basic FCU, no reverse, uses 2 MFC/FCU groups, still issolates roll from main thruster pack for fast turning, no need to rebind roll keys.
+Uses basic FCU, no reverse, roll is performed using Roll_L and Roll_R buttons, this is to allow fast handling by isolating the roll thrusters from the FCU/MFC.
 
-Entry is through a small gap on both sides of the glass, and bellow through the fake cockpit plating, exit ship by looking bottom left at a exit seat.
+Entry is by going prone in the access port looking forward and clicking the seat.
 
 
 
 //Cost//
 
 
-Aeg 10.1 stacks (17538 kv)
+Aeg 13.1 stacks (22622 kv)
 
-Aja 1.9 stacks (3300 kv)
+Aja 3.0 stacks (5135 kv)
 
-Ali (Alloy) 1.0 stacks (1786 kv)
+Ali (Alloy) 1.4 stacks (2498 kv)
 
-Ark 0.2 stacks (303 kv)
+Ark 0.2 stacks (360 kv)
 
-Bas 35.3 stacks (65011 kv)
+Bal (Alloy) 0.0 stacks (40 kv)
 
-Bas (Alloy) 6.2 stacks (10687 kv)
+Bas 54.9 stacks (94849 kv)
 
-Cha 37.7 stacks (65208 kv)
+Bas (Alloy) 3.0 stacks (5216 kv)
 
-Exo 1.9 stacks (3274 kv)
+Cha 68.3 stacks (118087 kv)
 
-Glass (Alloy) 2.2 stacks (3736 kv)
+Exo 2.5 stacks (4260 kv)
 
-Ice 2.1 stacks (3632 kv)
+Glass (Alloy) 5.0 stacks (8609 kv)
 
-Kar 0.3 stacks (513 kv)
+Ice 3.7 stacks (6448 kv)
 
-Kut 0.1 stacks (258 kv)
+Kar 0.2 stacks (385 kv)
 
-Nhu 11.8 stacks (20394 kv)
+Kut 1.6 stacks (2718 kv)
 
-Vok 37.3 stacks (64428 kv)
+Nhu 19.5 stacks (33730 kv)
 
-Total ore 148.2 stacks (256067 kv)
+Vok 49.8 stacks (85976 kv)
 
-Assembly cost 249309 credits
+Ymr 0.4 stacks (615 kv)
 
-Manufacturing cost 1253677 credits
+Total ore 226.6 stacks (391548 kv)
 
-Total cost 1502985 credits
+Assembly cost 270892 credits
+
+Manufacturing cost 1782759 credits
+
+Total cost 2053651 credits
 
 Stats based on autocannon, laser and plasma versions will differ.
 
@@ -83,43 +87,21 @@ Stats based on autocannon, laser and plasma versions will differ.
 //Tactics//
 
 
-This ship is a brawler to its core, and the new counter plating makes crippiling strikes to its flanks harder to do.
+Over armoured for its size, with 12 guns, this ship is good at only one thing.
 
-8 gun medium fighters are in my oppinion, the most vital gun config a PvP player/corp needs to contend, for it is the point where even the largest plates are shredded in quck salvos.
+Plowing through incoming fire at a slow but staedy pace.
 
-It is also the edge of affordibility, past the 8 gun size, it holds less value to go cheap, as the cost of a large ship warrent a increase of higher teir coomponents and late game weapons.
+12 gun are practicaly constant firing, making you a floating turret able to demo or damage any ship that comes in range.
 
-The 8 gun is the default fleet ship in small to large battles, large enough that any size ship must respect its damage, but being deadly to anything smaller.
+The armour is over abbundent and in almost all directions, the rear also has a large plate firewall.
 
-It is paramaount that you addopt a more aggresive combat style for larger ships, you are packing heat, your job is to hit the most vital targets on the field, and kill them.
+Has the cappacity to pose a threat to the largest of ships if not removed from the field.
 
-Evasion is way less important in a ship of size, reserved only for collisions and the largest of ships targeting you.
+Best used in defensive situations, where the ship is close for repair and resuply.
 
-Focus fire between two 8 gun ships is devistating, it very quickly begins to add up, well executed focus fire can bring down even the biggest of ships (like VIR's Borg Cube)
+This ship is not ideal in gravity, due to its high weight and no side thrusters, is primaraly made for zero g fighting.
 
-My combat expirence has shown me that running fighters in at least pairs is incredibly effective, focus firing on two ships that match is tricky, and can increase the survival rate of ships in fleet fights.
-
-The Yith is made for this, it has cheap autogun versions that can be built on mass, and more expensive versions will look exactly the same as the cheap, they wont be able to focus the plasma until its too late.
-
-Engage targets in a sideways orbit, this keeps your thickest voxel armour facing your target, and presents the slimmest dimensions to aim at.
-
-
-//History//
-
-
-The Mk1 started as a cheap 4 gun fighter made to replace my current meta ship that was nerfed by the headglitch fix.
-
-It was cheap, and fun, but i found my self getting destroyed by a growing size creap of meta fighters i was fighting.
-
-And so with the Mk2 i aimed to double the size and scope of the ship to match, with a secondary goal of replacing the then ageing Metabus.
-
-The Mk2 is to this day my most battle tested fighter i have ever designed, going even beyond the first Migo.
-
-The ship is designed to put as much voxel armour on the prow of the ship, and have a massive big plate core to catch stray shots.
-
-Then came the buff to plasmas, and the introduction of railguns to live, and while the Mk2 held itself well in the face of better weapons, it lacked the countermeasure developed since.
-
-The Mk3 is the next step, an attempt to keep the same battle tested hull, and add additional plating to make it less min maxed to counter autoguns/lasers.
+Possible good center piece for a fleet op with smaller fighters in support.
 
 
 //Design//
@@ -161,4 +143,4 @@ These plates still help with lower tier weapon fire.
 
 This ship has autocannon, laser and plasma versions, i consider higher tier weapons to hold less value on smaller ships vs big, so use to your taste.
 
-This ship is not max speed as it would require a massive nerf to the voxel armour, leaving the ship vulnrable to lasers, i encourage expirementing with the plate mats.
+This ship is not even close to max speed as it would require a massive nerf to the voxel armour, which had little to no effect to speed, making heavy char the best option.
