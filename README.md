@@ -5,7 +5,7 @@ The Shoggoth Mk1 is a heavy 12 gun meta fighter, with a huge amount of armour ma
 //Specs//
 
 
-8 mounted weapons with a staggered fire trigger system.
+12 mounted weapons with a staggered fire trigger system.
 
 Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
 
@@ -20,15 +20,15 @@ This can be altered to be the more common method of aiming, having higher sense 
 
 Armoured using known methods of meta plating, including big plate health, voxel armour, segmented and layered plating and plasma/rail sacrifice plates.
 
-Its primarlily plated using a char core with alloys across the front face of the ship, alloys are on the second side/rear armour.
+Its primarlily plated using a char with alloys across the front face of the ship.
 
-132 m/s max speed using T2 thrusters.
+108 m/s max speed using T3 thrusters.
 
-2187055.25 kg in weight.
+4172631 kg in weight.
 
-Two small prop tanks for 2 million prop, 40 mins estimated flight time.
+4 small prop tanks for 4 million prop, 1 hour estimated flight time.
 
-4 T1 fuel chamber, 8 T1 generators, 8 T1 enhancers, 1 hour 10 mins estimated fight time.
+6 T1 fuel chamber, 18 T1 generators, 6 T1 enhancers, 50 mins estimated fight time.
 
 Basic script for current Fuel/Prop times.
 
